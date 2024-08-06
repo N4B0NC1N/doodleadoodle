@@ -1,6 +1,7 @@
 
 # DOODLE A DOODLE
-Aplciación multijugador para la identifación de trazos mediante la utilización de redes neuronales
+Aplicación multijugador para la identifiación de trazos mediante la utilización de redes neuronales.
+
 
 # INSTALACIÓN
 -Es necesario instalar Python 3.11.3 para evitar problemas de incompatibilidad con los paquetes.

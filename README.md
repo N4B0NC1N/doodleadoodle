@@ -4,10 +4,10 @@ Aplicación multijugador para la identifiación de trazos mediante la utilizaci�
 
 
 # INSTALACIÓN
--Es necesario instalar Python 3.11.3 para evitar problemas de incompatibilidad con los paquetes.
--En Linux se accede a la carpeta /bin para usar Python.
--Es necesario instalar node y npm (versión igual o superior a 10.2.4).
--Ejecutar el comando "npm i" para instalar los datos relacionados con Vite.
+-Es necesario instalar Python 3.11.3 para evitar problemas de incompatibilidad con los paquetes.<br />
+-En Linux se accede a la carpeta /bin para usar Python.<br />
+-Es necesario instalar node y npm (versión igual o superior a 10.2.4).<br />
+-Ejecutar el comando "npm i" para instalar los datos relacionados con Vite.<br />
 
 Las librerías necesarias para la ejecución de los archivos de Python están desinstaladas para ahorrar espacio.
 

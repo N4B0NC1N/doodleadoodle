@@ -27,3 +27,7 @@ y desplegar los servidores:
     -doodleAdoodle/app/src/model/CNNServer.py: Cambiar ip en la linea 79.
     -doodleAdoodle/app/src/model/dataBaseServer.py: Cambiar ip en la linea 450.
     -doodleAdoodle/app/src/view/main.jsx: Cambiar ip en la linea 9.
+
+
+
+4. Para el correcto funcionamiento del envío de correos electrónicos es necesario crear una contraseña de aplciación y guardarla en la raiz del proyecto con el nombre ".password.txt".
